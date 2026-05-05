@@ -2,12 +2,7 @@
 
 A lightweight Windows desktop tool for backing up and restoring [Windhawk](https://windhawk.net/) configurations, built with Python and tkinter.
 
-**Please note:** There will be no compiled versions anymore!
-
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
-![Version](https://img.shields.io/badge/Version-2.5.0-green)
-![License](https://img.shields.io/badge/License-GPL-yellow)
+**This fork will continue to post compiled releases of this utility.**
 
 <img width="822" height="712" alt="image" src="https://github.com/user-attachments/assets/68776dfd-1299-49fb-85c5-bbb610f67941" />
 
